@@ -1,0 +1,3 @@
+awk '$1 ~/Officer/ {print}' tcpd_department.csv
+
+
